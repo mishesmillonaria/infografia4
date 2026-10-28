@@ -339,7 +339,6 @@ footer {
 .contenedorPromt {
   border-radius: 16px;
   border: 1px solid rgba(225, 160, 255, 0.5);
-
   padding: 40px;
 
   width: 100%;
@@ -350,6 +349,10 @@ footer {
   -webkit-background-origin: border-box;
   background-clip: padding-box, border-box;
   -webkit-background-clip: padding-box, border-box;
+}
+
+.contenedorPromt img {
+  max-width: 100%;
 }
 
 /*
